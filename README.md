@@ -1,5 +1,5 @@
 # About Me:
-Hey, I'm Alex! <br><br>I'm a Computer Science Graduate from Rutgers, always looking for opportunities to learn and grow as a developer. I enjoy working on projects that make tech more accessible and exploring areas like software development and AI.<br><br>Right now, I'm looking for full-time opportunities where I can apply my skills, collaborate with others, and keep improving as an engineer. If you're working on something cool or have an opportunity that fits, feel free to connect! 😊
+Hey, I'm Alex!
 
 
 # Tech Stack:
